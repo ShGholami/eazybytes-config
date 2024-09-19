@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related production APIs "
   contactDetails:
-    name: "Sandra Harald - Product Owner"
+    name: "Changed to check docker-compose up in prod"
     email: "sandra@eazybank.com"
   onCallSupport:
     - "(617) 432-2356"
